@@ -15,6 +15,6 @@
 
 <h4>Tabish tere me attitude hai</h4>
 
-<h4>Tabish tu haramkhor </h4>
+<h4>Tabish tu haramkhor</h4>
 </body>
 </html>
